@@ -450,6 +450,9 @@ nav a:hover {
     display: flex;
     flex-direction: column;
   }
+  .column h1{
+    font-size: 18px;
+  }
   .cln-img{
     height: 218px;
   }
